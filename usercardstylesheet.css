@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.header{
+    background-color:teal;
+    height: 150px;
+}
+
+.top-section{  
+    width: 350px;
+    position: absolute;
+    top: 75px;
+    padding: 30px;
+    font-family: monospace;
+}
+
+p {
+    font-size:15px;
+    margin: 0px;
+}
+
+
+h2{
+    margin-left: 10px;
+}
+
+.profile-pic{
+    height: 80px;
+    display: block
+}
+.map{
+    display: flex;
+ 
+    white-space: normal;
+    margin: 0px;
+}
+
+.map-icon {
+    height: 25px;
+}
+
+.gear{
+    height: 18px;
+}
+
